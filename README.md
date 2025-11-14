@@ -110,4 +110,3 @@ O banco foi populado com:
 
 Esses dados permitem validar consultas e gerar insights.
 
-ORDER BY NOME ASC;
