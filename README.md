@@ -17,8 +17,8 @@ Este banco de dados serve como base para sistemas de RH, psicologia organizacion
 ---
 
 ## 👥 Integrantes
-- **Pedro Henrique Luiz Alves Duarte – RM563405**  
-- **Guilherme Macedo Martins – RM562396**
+- **Pedro Henrique Luiz Alves Duarte  
+- **Guilherme Macedo Martins 
 
 ---
 
